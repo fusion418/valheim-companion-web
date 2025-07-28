@@ -1,0 +1,11 @@
+{
+  "editor.autoClosingBrackets": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": "explicit"
+  },
+  "stylelint.validate": ["css", "postcss", "scss"],
+  "conventionalCommits.gitmoji": false,
+  "conventionalCommits.autoCommit": false
+}
